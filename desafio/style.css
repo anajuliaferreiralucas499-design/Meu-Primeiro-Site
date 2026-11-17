@@ -1,0 +1,15 @@
+.capa{
+background-image: url("./oceano.jpg");
+    min-height: 100vh;
+    padding: 24px;
+    place-items: center;
+    background-color: rgb(16, 16, 59);
+      background-size: cover;
+      background-position: center;
+      text-align: center;
+      align-content: center;
+
+
+}
+h1{color: aliceblue;}
+h2{ color: rgb(196, 198, 201);}
